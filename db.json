@@ -4,6 +4,471 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+    "plans": [
+        {
+
+            "RatePlan": "Freedom",
+            "RatePlanId": 1,
+            "RelgenId": 1001,
+            "RelgenVersion": "V1.1.1",
+            "Status": "Available",
+            "LastUpdate": "2/22/2018"
+
+},
+        {
+
+            "RatePlan": "Freedom",
+            "RatePlanId": 2,
+            "RelgenId": 1001,
+            "RelgenVersion": "V1.1.1",
+            "Status": "Available",
+            "LastUpdate": "2/22/2018"
+
+},
+        {
+
+            "RatePlan": "Freedom",
+            "RatePlanId": 3,
+            "RelgenId": 1001,
+            "RelgenVersion": "V1.1.1",
+            "Status": "Available",
+            "LastUpdate": "2/22/2018"
+
+},
+        {
+
+            "RatePlan": "Freedom",
+            "RatePlanId": 4,
+            "RelgenId": 1001,
+            "RelgenVersion": "V1.1.1",
+            "Status": "Available",
+            "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+},  {
+
+  "RatePlan": "Freedom",
+  "RatePlanId": 3,
+  "RelgenId": 1001,
+  "RelgenVersion": "V1.1.1",
+  "Status": "Available",
+  "LastUpdate": "2/22/2018"
+
+}
+],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
